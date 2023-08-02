@@ -1,7 +1,7 @@
 # Advanced-React-Typescript
 A React project to do crud operations on Notes.
 
-See video attached for better visualisation
+See Gif attached for better visualisation
 
 ## clone the repo
 Run the following commands
@@ -9,8 +9,8 @@ Run the following commands
 * `npm run dev` 
 
 
-## Gif for Multi page From
-![video](Screen Recording 2023-08-02 at 1.01.00 PM.mov)
+## Gif for Note App
+![Gif](ezgif-5-ff8baef441.gif)
 
 
 
